@@ -15,7 +15,6 @@ int main()
 		len = strlen(buffer);
 		data = (char *) malloc(len+1);
 		strcpy(data,buffer);
-		printf("%s\n", data);
 	}
 	return 0;
 }
