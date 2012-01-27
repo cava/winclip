@@ -3,7 +3,6 @@
 
 int main()
 {
-	HANDLE clip;
 	int len;
 	char *data = NULL;
 
